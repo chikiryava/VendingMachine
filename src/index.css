@@ -1,0 +1,57 @@
+header{
+    text-align: center;
+    font-size: 40px;
+    font-family: "Segoe UI", fantasy;
+}
+.selectProduct{
+    display: flex;
+    margin-left: 40%;
+    height: 30px;
+    margin-top: 15%;
+    text-align: center;
+    background: yellow ;
+}
+html{
+background: #E8D8D1;
+}
+.block {
+    margin-top: 30px;
+    width: 862px;
+    border-radius: 30px;
+    height: 759px;
+    display:inline-block;
+    background: #BFEAF8;
+    padding: 5px 20px 5px 5px;
+    position: relative;
+    float: left;
+    left: 28%;
+}
+button{
+    font-family: "Inter", math;
+    font-size: 20px;
+    background: #DAD1E8;
+    border-radius: 10px;
+    width: 172px;
+    height: 48px;
+}
+.returnChangeButton{
+    margin-left: 38%;
+    margin-top: 5%;
+}
+.addBalanceButton{
+    margin-left: 82%;
+    margin-top: 2%;
+}
+.selectDenomination{
+    margin-left: 85%;
+}
+p{
+    font-size: 20px;
+}
+.pBalance{
+    margin-left: 87%;
+}
+.machineInfo{
+    float: right;
+    margin-right: 10%;
+}
